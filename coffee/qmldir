@@ -1,0 +1,13 @@
+ApplicationFlow ApplicationFlow.qml
+ApplicationFlowForm ApplicationFlowForm.ui.qml
+Brewing Brewing.qml
+BrewingForm BrewingForm.ui.qml
+ChoosingCoffee ChoosingCoffee.ui.qml
+CoffeeButton CoffeeButton.qml
+Cup Cup.qml
+CupForm CupForm.ui.qml
+EmptyCup EmptyCup.qml
+EmptyCupForm EmptyCupForm.ui.qml
+NavigationButton NavigationButton.ui.qml
+SideBar SideBar.qml
+SideBarForm SideBarForm.ui.qml

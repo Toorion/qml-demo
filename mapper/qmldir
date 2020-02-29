@@ -1,0 +1,8 @@
+ContentArea ContentArea.qml
+Panel Panel.qml
+Switch Switch.qml
+Slider Slider.qml
+NMapEffect NMapEffect.qml
+NMapLightSource NMapLightSource.qml
+Light Light.qml
+

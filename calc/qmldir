@@ -1,0 +1,4 @@
+Button Button.qml
+Display Display.qml
+NumberPad NumberPad.qml
+Calculator 1.0 calculator.js

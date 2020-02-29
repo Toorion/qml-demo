@@ -1,0 +1,8 @@
+singleton CustomerModel 1.0 CustomerModel.qml
+HistoryForm HistoryForm.ui.qml
+MainForm MainForm.ui.qml
+Notes Notes.qml
+NotesForm NotesForm.ui.qml
+Settings Settings.qml
+SettingsForm SettingsForm.ui.qml
+

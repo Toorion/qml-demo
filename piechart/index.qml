@@ -36,6 +36,7 @@ ChartView {
     height: 300
     theme: ChartView.ChartThemeBrownSand
     antialiasing: true
+    property string title: 'PieChart';
 
 //![1]
 //![2]

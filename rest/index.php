@@ -7,6 +7,7 @@ const SKIP_FILES = [
     '..',
     '_todo',
     'rest',
+    '.git',
 ];
 
 $files = scandir($path);

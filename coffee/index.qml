@@ -54,6 +54,7 @@ import QtQuick.Layouts 1.3
 import "./Coffee" 1.0
 
 Rectangle {
+    property string title: 'Coffee';
     visible: true
     width: Constants.width
     height: Constants.height

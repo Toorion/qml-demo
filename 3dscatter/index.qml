@@ -40,6 +40,8 @@ Rectangle {
     //! [1]
     width: 1200
     height: 700
+    
+    property string title: '3D scatter';
 
     //! [4]
     Data {

@@ -33,6 +33,7 @@ Item {
     width: 800
     height: 600
     property bool sourceLoaded: false
+    property string title: 'Polar Chart';
 
     ListView {
         id: root

@@ -52,6 +52,7 @@ import QtQuick 2.0
 import "content" as Content
 
 Rectangle {
+    property string title: 'Clock';
     id: root
     width: 640; height: 320
     color: "#646464"

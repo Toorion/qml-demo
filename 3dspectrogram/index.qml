@@ -35,7 +35,7 @@ import "."
 
 Rectangle {
     id: mainview
-//    title: "Qt Quick 2 Spectrogram Example"
+    property string title: '3D spectrogram';
     visible: true
     width: 1024
     height: 768

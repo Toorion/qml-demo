@@ -31,6 +31,7 @@ import QtQuick 2.0
 import QtCharts 2.0
 
 Item {
+    property string title: 'Custom Legend';
     id: main
     width: 400
     height: 320

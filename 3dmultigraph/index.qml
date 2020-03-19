@@ -36,6 +36,8 @@ Rectangle {
     id: mainView
     width: 800
     height: 600
+    
+    property string title: '3D multigraph';
 
     Data {
         id: data

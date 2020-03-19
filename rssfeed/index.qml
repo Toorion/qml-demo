@@ -58,6 +58,7 @@ Rectangle {
 
     width: 800
     height: 480
+    property string title: 'RSS feed';
 
     property string currentFeed: rssFeeds.get(0).feed
     property bool loading: feedModel.status === XmlListModel.Loading

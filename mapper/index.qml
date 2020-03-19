@@ -2,6 +2,8 @@ import QtQuick 2.0
 
 Item {
     id: mainView
+    
+    property string title: 'Mapper';
 
     property int imageFileIndex: 0
 

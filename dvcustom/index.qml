@@ -33,6 +33,7 @@ import QtDataVisualization 1.0
 import "."
 
 Rectangle {
+    property string title: 'Data Visualization';
     id: mainView
     width: 1280
     height: 720

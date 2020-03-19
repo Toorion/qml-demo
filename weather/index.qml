@@ -31,6 +31,7 @@ import QtQuick 2.0
 import QtCharts 2.0
 
 Rectangle {
+    property string title: 'Weather';
     width: 500
     height: 400
     gradient: Gradient {

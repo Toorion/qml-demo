@@ -53,6 +53,7 @@ import "content"
 import "tweetsearch.mjs" as Helper
 
 Rectangle {
+    property string title: 'Tweets';
     id: main
     width: 320
     height: 480

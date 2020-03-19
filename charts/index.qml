@@ -32,6 +32,7 @@ import QtQuick 2.0
 //![1]
 
 Item {
+    property string title: 'Charts';
     width: 600
     height: 400
 

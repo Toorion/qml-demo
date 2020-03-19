@@ -54,6 +54,9 @@ import QtQuick.Layouts 1.1
 import "./content"
 
 Rectangle {
+    
+    property string title: 'Stock';
+    
     id: mainRect
     width: 1000
     height: 700

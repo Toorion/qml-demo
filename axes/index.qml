@@ -33,6 +33,7 @@ Item {
     width: 440
     height: 330
     property bool sourceLoaded: false
+    property string title: 'Axes';
 
     ListView {
         id: root

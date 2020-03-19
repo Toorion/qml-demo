@@ -38,6 +38,8 @@ Rectangle {
     id: mainview
     width: 1280
     height: 1024
+    
+    property string title: '3D bars';
 
     property int buttonLayoutHeight: 180;
     state: Screen.width < Screen.height ? "portrait" : "landscape"

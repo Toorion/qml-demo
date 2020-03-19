@@ -53,6 +53,7 @@ import "calculator.js" 1.0 as CalcEngine
 
 
 Rectangle {
+    property string title: 'Calc';
     id: window
     width: 320
     height: 480

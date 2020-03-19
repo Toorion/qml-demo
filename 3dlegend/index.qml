@@ -37,6 +37,8 @@ Rectangle {
     id: mainView
     width: 800
     height: 600
+    
+    property string title: '3D legend';
 
     property int buttonLayoutHeight: 180;
 

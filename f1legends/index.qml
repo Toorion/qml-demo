@@ -32,6 +32,7 @@ import QtCharts 2.0
 import QtQuick.XmlListModel 2.0
 
 Item {
+    property string title: 'F1 Legends';
     width: 400
     height: 300
     property int currentIndex: -1

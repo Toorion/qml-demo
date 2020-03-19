@@ -37,6 +37,7 @@ Rectangle {
     width: 1024
     height: 768
     color: surfacePlot.theme.windowColor
+    property string title: '3D surface';
 
     Data {
         id: surfaceData
